@@ -1,0 +1,7 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="360" rx="20" fill="#FEE2E2"/>
+  <ellipse cx="240" cy="180" rx="120" ry="70" fill="#991B1B"/>
+  <path d="M390 170H520" stroke="#7F1D1D" stroke-width="12" stroke-linecap="round"/>
+  <path d="M500 150L520 170L500 190" stroke="#7F1D1D" stroke-width="10" stroke-linecap="round"/>
+  <text x="360" y="225" fill="#7F1D1D" font-family="Arial" font-size="24" font-weight="700">2 Rescue Breaths</text>
+</svg>
